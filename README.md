@@ -1,4 +1,5 @@
-Dataset za treniranje modela preuzeti sa sledećeg linka:
-  https://www.kaggle.com/code/petarjovic/app-downloads-prediction
+This is advanced machine learning problem from Kaggle.
+Trying to predict number of downloads for newly added application on Google play store.
 
-Neophodno je preuzeti sve fajlove kako bi program radio.
+Link to problem and dataset:
+https://www.kaggle.com/datasets/gauthamp10/google-playstore-apps
